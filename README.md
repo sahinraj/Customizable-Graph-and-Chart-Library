@@ -106,7 +106,7 @@ Demonstrates how to use the library by rendering each chart type dynamically.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/custom-chart-library.git
+   git clone https://github.com/sahinraj/Customizable-Graph-and-Chart-Library.git
    cd custom-chart-library
    ```
 
